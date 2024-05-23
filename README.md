@@ -8,3 +8,6 @@ Data structure:
 * Product Sheet: The product sheet offers insights into the various products available on the e-commerce platform. It includes product IDs, names, categories, prices, descriptions, and other product-specific attributes.
 
 * Interactions Sheet: The interactions sheet is a crucial component of the dataset, capturing the interactions between users and products. It records details of user actions, such as product views, purchases, reviews, and ratings. This data is essential for building recommendation systems and understanding user preferences.
+
+Data cleaning:<br><br>
+The main objective of this project is to clean the given data to make it suitable for further analysis. This includes handling missing values, removing duplicates, normalizing data, handling outliers, and performing other necessary transformations.
